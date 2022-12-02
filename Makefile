@@ -13,6 +13,7 @@ up:
 	rake import:from_xlsx_questions
 	rake import:from_xlsx_answers
 	rake import:from_xlsx_tests
+	rails db:seed
 
 migration:
 	bundle exec rails g migration $(RUN_ARGS)

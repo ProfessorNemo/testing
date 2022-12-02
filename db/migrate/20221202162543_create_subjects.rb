@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class CreateSubjects < ActiveRecord::Migration[6.1]
   def self.up
     execute <<~SQL.squish
@@ -15,5 +17,3 @@ class CreateSubjects < ActiveRecord::Migration[6.1]
     execute 'DROP TABLE subjects'
   end
 end
-
-
