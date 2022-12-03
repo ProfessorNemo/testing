@@ -188,9 +188,6 @@ GEM
     tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
     unicode-display_width (2.3.0)
-    valid_email2 (4.0.4)
-      activemodel (>= 3.2)
-      mail (~> 2.5)
     web-console (4.2.0)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
@@ -217,7 +214,6 @@ DEPENDENCIES
   rubocop-performance (~> 1.14)
   rubocop-rails (~> 2.14)
   sass-rails (>= 6)
-  valid_email2 (~> 4.0)
   web-console (>= 4.1.0)
 
 RUBY VERSION

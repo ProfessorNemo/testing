@@ -11,7 +11,6 @@ gem 'puma', '~> 6.0'
 gem 'rails', '~> 6.1.6', '>= 6.1.6.1'
 gem 'roo', '~> 2.9.0'
 gem 'sass-rails', '>= 6'
-gem 'valid_email2', '~> 4.0'
 
 group :development, :test do
   gem 'byebug'
