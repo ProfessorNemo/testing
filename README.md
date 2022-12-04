@@ -10,7 +10,7 @@ SQL-запросы к таблицам БД "PostgreSQL" в Rails - прилож
 ### Установка:
 1. Клонируйте репозиторий
 ```
-$ git clone git@github.com:phobco/testing.git
+$ git clone git@github.com:ProfessorNemo/testing.git
 ```
 
 2. Установите библиотеки
